@@ -1,0 +1,9 @@
+''
+Explain the differences between two statistical tests called t-tests and z-tests.
+    
+In your explanation, 
+create two examples of when you would use the tests, one scenario for t-tests and one scenario for z-tests. 
+This will help highlight real life situations when one test would be utilized over the other.
+''
+
+
