@@ -6,10 +6,15 @@
  ###The content in this repository will have topics
  
 ''-Probabilty''
+
 ''-Stats''
+
 ''-Maths''
+
 ''-Coding questions''
+
 ''-Machine learning''
+
 ''-Data ananlysis and cleaning''
  
  ##### Have fun!!!
