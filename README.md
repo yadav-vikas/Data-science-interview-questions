@@ -16,5 +16,7 @@
 ''-Machine learning''
 
 ''-Data ananlysis and cleaning''
+
+''SQL''
  
  ##### Have fun!!!
