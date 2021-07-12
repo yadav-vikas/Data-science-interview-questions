@@ -15,3 +15,11 @@ You should be able to provide an example on the fly here. ""
                                       -                                 -    
                                False  -        Type II error            -  no error
 
+
+Let’s take an example to understand the concept of Hypothesis Testing. 
+A person is on trial for a criminal offense and the judge needs to provide a verdict on his case. Now, there are four possible combinations in such a case:
+
+First Case: The person is innocent and the judge identifies the person as innocent
+Second Case: The person is innocent and the judge identifies the person as guilty  (Type I error)
+Third Case: The person is guilty and the judge identifies the person as innocent   (Type II error)
+Fourth Case: The person is guilty and the judge identifies the person as guilty    
