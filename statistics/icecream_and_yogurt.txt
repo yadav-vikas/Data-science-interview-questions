@@ -1,0 +1,11 @@
+Suppose you enter an ice cream store. They sell two types of ice cream: soft serve and frozen yogurt. 
+Additionally, there are 10 flavors of soft serve and 13 flavors of frozen yogurt.
+You're really hungry, so you decide you can order and eat two ice creams before they melt, but are facing some decision fatigue given the amount of choices.
+How many ways are there to choose exactly two ice creams from the store? Figuring this out should help quantify that decision fatigue.
+
+
+------- As mentioned in problem only 2 can be eaten before they melt
+
+probability of eating 2 ice creams out of 13 flavour or frozen yogurt and 10 flavors of soft serve is 
+
+ >>>>>>>>>>>>>   10c2 13c0 + 10c1 13c1 + 10c0 13c2
