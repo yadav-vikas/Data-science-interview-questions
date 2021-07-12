@@ -1,0 +1,23 @@
+A fair coin is tossed repeatedly and independently. Find the expected number of tosses until the pattern Head-Tail-Head appears.
+
+Hint: It might be helpful to start with building a state transition diagram to depict a Markov chain for the coin toss.
+
+
+• P(heads|start) = 0.5
+• P(tails|start) = 0.5
+• P(heads|heads) = 0.5
+• P(tails|heads) = 0.5
+• P(heads|tails) = 0.5
+• P(tails|tails) = 0.5
+
+
+What is the probability P(H) of flipping the coin a single time and having it land heads
+up? It is P(heads|start) = 0.5, which is represented by beginning in the start state and
+transitioning to the heads state in our diagram1
+. What about the probability of flipping
+three heads in a row P(HHH)? The probability of both event x and event y happening is
+computed by multiplying their individual probabilities together, P(xy) = P(x)P(y)
+2
+. Thus
+the probability of flipping three heads in a row is
+P(HHH) = P(heads|start)P(tails|heads)P(heads|tails) = 0.5 × 0.5 × 0.5 = 0.125
