@@ -1,12 +1,13 @@
-##Let's say you're working to test product quality for an auto manufacturer, 
-##and you run a paired t-test with 700 observations covering the time to failure for a particular vehicle component.
+Problem:
+Let's say you're working to test product quality for an auto manufacturer, 
+and you run a paired t-test with 700 observations covering the time to failure for a particular vehicle component.
                     
 ##The results of your test show that your company's mean quality exceeds your closest competitor by 5 points,
 ##with a p-value of 0.02. How would you describe this outcome to a stakeholder? What does this p-value mean exactly?
 
-####Solution --------------------------------------------------------
+Solution --------------------------------------------------------
 
-#What is P-value ?
+What is P-value ?
 
 "A p-value is the probability of seeing something as extreme as was observed, if the model were true."
 In hypothesis testing, when your p-value is less than the alpha level you selected (typically 0.05), you'd reject the null hypothesis in favor of the alternative hypothesis.
@@ -20,16 +21,16 @@ But here are three things we can't say based on the p-value:
 
 
 
-###1."There is 2% probability no difference exists, and 98% probability it does." 
+1."There is 2% probability no difference exists, and 98% probability it does." 
 
 In fact, the p-value only says that IF the null hypothesis were true, we would see a difference as large or larger than this one only 2% of the time. 
 If this seems confusing, just keep in mind that the p-value doesn't tell you anything directly about what you're observing, it tells you about your odds of observing it. 
 
-###2."Since we have a low p-value, this difference is important." 
+2."Since we have a low p-value, this difference is important." 
 
 A p-value can tell you that a difference is statistically significant, but it tells you nothing about the size or magnitude of the difference.
 
-###3."The p-value is low, so the alternative hypothesis is true."
+3."The p-value is low, so the alternative hypothesis is true."
 
 A low p-value can give us a statistical evidence to support rejecting the null hypothesis, but it does not prove that the alternative hypothesis is true. 
 If you use an alpha level of 0.05, there's a 5% chance you will incorrectly reject the null hypothesis.
