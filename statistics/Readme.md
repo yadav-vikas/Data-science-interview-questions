@@ -16,3 +16,9 @@ https://www.mathsisfun.com/data/standard-deviation-calculator.html
 #### Normal distributions
 
 https://www.mathsisfun.com/data/standard-normal-distribution.html
+
+### P-value
+
+https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/p-value/
+
+https://www.power-analysis.com/p_value.htm
