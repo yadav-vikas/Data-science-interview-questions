@@ -22,3 +22,5 @@ https://www.mathsisfun.com/data/standard-normal-distribution.html
 https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/p-value/
 
 https://www.power-analysis.com/p_value.htm
+
+https://blog-minitab-com.cdn.ampproject.org/v/s/blog.minitab.com/en/understanding-statistics/three-things-the-p-value-cant-tell-you-about-your-hypothesis-test?amp_js_v=a6&amp_gsa=1&hs_amp=true&usqp=mq331AQKKAFQArABIIACAw%3D%3D#aoh=16262675266169&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.minitab.com%2Fen%2Funderstanding-statistics%2Fthree-things-the-p-value-cant-tell-you-about-your-hypothesis-test
