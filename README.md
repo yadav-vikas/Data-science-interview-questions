@@ -20,3 +20,7 @@
 ''SQL''
  
  ##### Have fun!!!
+ 
+ ### An example of Data science process
+ 
+ https://content.codecademy.com/programs/code-foundations-path/ds-survey/lesson-2/Survey-of-DS-Lesson02-Code.html
